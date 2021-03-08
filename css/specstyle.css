@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+}
+.img1{
+  height: 400px;
+}
+.img2{
+  height: 400px;
+}
+h1{
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+.paragraph2{
+  margin-right: 100px;
+  margin-left: 100px;
+}
+.video1{
+  position: relative;
+  right: 50px;
+}
+.specification-container-1{
+  padding-top: 25px;
+
+}
